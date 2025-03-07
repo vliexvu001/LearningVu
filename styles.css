@@ -1,1 +1,13 @@
 styles.css
+body {
+    background: linear-gradient(to right, #4facfe, #00f2fe);
+}
+button {
+    background: #007bff;
+}
+button:hover {
+    background: #0056b3;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
